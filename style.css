@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:rgb(205,19,216);
+font-family: "Quicksand" "Quicksand";
+  color:white;
+  font-size: 30px;
+  
+}
+  input[type="checkbox"]{
+    transform: scale(2);
+    margin-right: 30px;
+}
+  
+  input[type="text"]{
+    font-size: 30px;
+    width: 230px;
+    border-radius: 200px;
+    border: solid 4px white;
+  }
+
+  .hidden{
+    display: none;
+  }
+  
+  .botao{
+    background-color:pink;
+    font-family: "Quicksand" "Quicksand";
+    color:white;
+    border: 2px solid pink;
+    border-radius: 200px;
+    font-Size: 25px;
+  }
+
+.botao:hover{
+  background-color:violet;
+  border: solid 2px violet;
+}
